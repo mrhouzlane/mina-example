@@ -1,5 +1,10 @@
 # Mina Snapp: Minalecture
 
+
+#GuessingGame
+
+This is a guessing game using Mina Protocol powered by EncodeClub for ZK-Bootcamp 
+
 This template uses TypeScript.
 
 ## How to build
