@@ -3,7 +3,8 @@
 
 #GuessingGame
 
-This is a guessing game using Mina Protocol powered by EncodeClub for ZK-Bootcamp 
+This is a guessing game using Mina Protocol.
+It's an exercice of Encode Club using Mina Protocol to guess a number and then guess the number multiplied by 3. 
 
 This template uses TypeScript.
 
